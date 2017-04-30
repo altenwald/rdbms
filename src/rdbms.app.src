@@ -1,0 +1,11 @@
+{application, rdbms, [
+    {description, "Erlang Mnesia RDBMS"},
+    {vsn, git},
+    {registered, []},
+    {applications, [
+        kernel,
+        stdlib,
+        mnesia
+    ]},
+    {env, []}
+]}.
