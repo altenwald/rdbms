@@ -5,7 +5,9 @@
     {applications, [
         kernel,
         stdlib,
-        mnesia
+        mnesia,
+        unistring,
+        sqlparser
     ]},
     {env, []}
 ]}.
