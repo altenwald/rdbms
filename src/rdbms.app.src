@@ -5,9 +5,11 @@
     {applications, [
         kernel,
         stdlib,
+        logger,
         mnesia,
         unistring,
         sqlparser
     ]},
+    {mod, {rdbms_app, []}},
     {env, []}
 ]}.

@@ -1,4 +1,4 @@
-{"1.1.0",
+{"1.2.0",
 [{<<"neotoma">>,{pkg,<<"neotoma">>,<<"1.7.3">>},1},
  {<<"sqlparser">>,
   {git,"https://github.com/altenwald/sqlparser",
@@ -10,5 +10,7 @@
   0}]}.
 [
 {pkg_hash,[
- {<<"neotoma">>, <<"D8BD5404B73273989946E4F4F6D529E5C2088F5FA1CA790B4DBE81F4BE408E61">>}]}
+ {<<"neotoma">>, <<"D8BD5404B73273989946E4F4F6D529E5C2088F5FA1CA790B4DBE81F4BE408E61">>}]},
+{pkg_hash_ext,[
+ {<<"neotoma">>, <<"2DA322B9B1567FFA0706A7F30F6BBBDE70835AE44A1050615F4B4A3D436E0F28">>}]}
 ].
